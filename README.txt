@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at http://codepen.io/dudleystorey/pen/kFoGw.
+
+ Derivation of my [responsive slider technique](http://thenewcode.com/627/Make-A-Responsive-CSS3-Image-Slider) with frequently-asked-for captions. Code breakdown [on my blog](http://demosthenes.info/blog/831/HTML5-Responsive-Image-Slider-With-Captions) Photographs by [Trey Ratcliff](http://www.flickr.com/photos/stuckincustoms/)
